@@ -1,7 +1,7 @@
 # triangle-toy
 Click the screen to add triangles
-Line A
+Line A was taken cared by Siori
 
-Line B
+Line B - This is a change from Joe
 
 These triangles may have been licked by adorable baby Goats.
