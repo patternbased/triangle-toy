@@ -4,4 +4,4 @@ Line A
 
 Line B
 
-Line C
+These triangles may have been licked by adorable baby Goats.
