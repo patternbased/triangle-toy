@@ -1,2 +1,2 @@
 # triangle-toy
-Click to add triangles
+Click the screen to add triangles
